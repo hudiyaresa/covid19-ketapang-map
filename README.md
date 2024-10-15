@@ -12,6 +12,7 @@ This project is a web-based leaflet choropleth map visualization that displays t
 - Data visualization of potential COVID-19 spread from the nearest city or area with a high concentration of cases.
 
 ## How to Use
+- Open https://hudiyaresa.github.io/covid19-ketapang-map/
 - Zoom in or out on the map to view different regions.
 - Click on a marker to see details about the village/district, such as the number of employees and potential risk factors for COVID-19 spread.
 
